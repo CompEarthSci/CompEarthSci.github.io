@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Code Corner"
+date:   2023-09-21 16:41:32 +0100
+categories: code
+---
+
+A place where we can gather together links to interesting or useful community codes.
+
+For example our new in-house sheer-wave splitting code [swspy](https://github.com/TomSHudson/swspy)
+
+Or a popular earthquake relocation code: [NonLinLoc](https://github.com/alomax/NonLinLoc)
