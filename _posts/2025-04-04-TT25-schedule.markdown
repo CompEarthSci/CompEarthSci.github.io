@@ -5,24 +5,24 @@ date:   2025-04-04 12:00:00 +0100
 categories: meetings
 ---
 We'll meet approximatly every other week in term time normally at 15:00 in the Conference 
-Room. Meetings are open to all in the Department and will follow the schedule 
+Room. Sometimes we meet in the seminar rooms. Meetings are open to all in the Department and will follow the schedule 
 below that will be filled out early in term.
 The Conference Room in Earth Sciences can be found on O4 (turn right after
-you go through the doors to the office corridor). If you are willing to lead one of these
-sessions please let Andrew Walker know.
+you go through the doors to the office corridor). The seminar rooms are next to reception on the ground floor.
+If you are willing to lead one of these sessions please let Andrew Walker know.
 
 **1/5/2025:** No meeting
 
-**8/5/2025** TBC
+**8/5/2025** TBC (Seminar 1)
 
 **15/5/2025** No meeting (fellowship day - talks for post-docs and graduate students on research fellowships)
 
-**22/5/2025** Using AWS at Oxford - Joseph Asplet
+**22/5/2025** Using AWS at Oxford - Joseph Asplet (Seminar 2)
 
-**29/5/2025** TBC (Andrew away)
+**29/5/2025** TBC (Andrew away) (Seminar 1)
 
 **5/6/2025** No meeting (Departmental committee)
 
-**12/6/2025** Lessons from a computational DPhil project - Rebecca Colquhoun
+**12/6/2025** Lessons from a computational DPhil project - Rebecca Colquhoun (Conference room)
 
-**19/6/2025** TBC
+**19/6/2025** TBC (Conference room)
