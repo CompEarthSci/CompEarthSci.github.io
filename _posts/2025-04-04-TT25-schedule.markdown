@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Schedule for Trinity term 2024"
+date:   2025-04-04 12:00:00 +0100
+categories: meetings
+---
+We'll meet approximatly every other week in term time normally at 15:00 in the Conference 
+Room. Meetings are open to all in the Department and will follow the schedule 
+below that will be filled out early in term.
+The Conference Room in Earth Sciences can be found on O4 (turn right after
+you go through the doors to the office corridor). If you are willing to lead one of these
+sessions please let Andrew Walker know.
+
+**1/5/2025:** No meeting
+
+**8/5/2025** TBC
+
+**15/5/2025** No meeting (fellowship day - talks for post-docs and graduate students on research fellowships)
+
+**22/5/2025** Using AWS at Oxford - Joseph Asplet
+
+**29/5/2025** TBC (Andrew away)
+
+**5/6/2025** No meeting (Departmental committee)
+
+**12/6/2025** Lessons from a computational DPhil project - Rebecca Colquhoun
+
+**19/6/2025** TBC
