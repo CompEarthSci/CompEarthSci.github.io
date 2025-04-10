@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schedule for Trinity term 2024"
+title:  "Schedule for Trinity term 2025"
 date:   2025-04-04 12:00:00 +0100
 categories: meetings
 ---
@@ -13,7 +13,7 @@ If you are willing to lead one of these sessions please let Andrew Walker know.
 
 **1/5/2025:** No meeting
 
-**8/5/2025** TBC (Seminar 1)
+**8/5/2025** SSH tricks - how to work easily on remote computers. Andrew Walker (Seminar 1)
 
 **15/5/2025** No meeting (fellowship day - talks for post-docs and graduate students on research fellowships)
 
