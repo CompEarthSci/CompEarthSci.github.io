@@ -13,6 +13,8 @@ The Conference Room in Earth Sciences can be found on O4 (turn right after
 you go through the doors to the office corridor). The seminar rooms are next
 to reception on the ground floor.
 
+## Meeting schedule
+
 * **16/10/2025** No meeting
 * **23/10/2025** Introductions and plans
 * **30/10/2025** TBC
@@ -22,5 +24,45 @@ to reception on the ground floor.
 * **27/11/2025** TBC
 * **4/12/2025** TBC
 
+## Training 
 
+As well as our weekly meetings, there is a variety of relevant training provided
+across the University during term. This training includes:
+
+(1) The third round of our NERC-funded programme "Essential Scientific Computing for Environmental 
+Scientists". Three sets of free to attend courses are available in Oxford, Liverpool, Edinburgh
+and online pitched as follows:
+
+* An introductory course (for which no prior knowledge is required). This will cover simple use of the command line, an introduction to using Python, and understanding version control. These take place as follows (with application deadlines in brackets):
+  * Tuesday 19th and Wednesday 20th August 2025 online, via Zoom (15th August)
+  * Monday 1st - Wednesday 3rd December 2025 in Edinburgh (7th November). Includes a "bring your own data day".
+  * Thursday 11th and Friday 12th December 2025 in Oxford (14th November)
+  * Wednesday 25th and Thursday 26th March 2026, in Liverpool (27th February)
+* An intermediate course, covering data analysis for both numerical and geospatial data, and good programming practices, which will assume knowledge equivalent to attendance at the introductory course. This will be run as three repeated courses:
+  * Tuesday 7th - Thursday 9th October 2025 in Liverpool (12th September). Includes a "bring your own data day".
+  * Monday 12th, Tuesday 19th, Monday 19th, and Tuesday 20th January 2026 online, via Zoom (7th January) note that this will run from 10:00 - 13:30 on each day.
+  * Wednesday 18th and Thursday 19th February 2026 in Edinburgh (30th January)
+* An advanced course, covering more specialist computational skills, such as improving performance when analysing large data sets. The advanced course will be run as two repeated courses:
+  *  Monday 20th and Tuesday 21st October 2025 online, via Zoom (10th October)
+  * Tuesday 17th - Thursday 19th March 2026 in Oxford (27th February). Includes a "bring your own data day".
+
+Funding is also available to cover accommodation and travel, with priority given to registered PhD 
+students as well as reasonable caring costs for attendees who have dependents, which means they would 
+normally struggle to attend a course. Registration for all courses is now open 
+at https://forms.office.com/e/7xssC7FgXa - if you wish to apply for more than one instance of our courses, 
+please complete the form for each course you wish to attend. Questions about the courses can be sent to 
+Chris Wood: c.wood@epcc.ed.ac.uk
+
+
+(2) Courses normally offered by the Advanced Research Computing team (an introductory 
+presentation, online training aimed at new users,
+a course on the effective use of HPC clusters, and drop in consultation sessions). 
+See https://arc.ox.ac.uk/training
+for more information and details of how to book. These courses are highly recommended 
+if you are (or intend to be) a new user of the ARC services.
+
+
+(3) Reproducible Research Oxford host a number of events including a two-day Software 
+Carpentries workshop (from 22nd September). Further details can be
+found on https://rr.ox.ac.uk/.
 
