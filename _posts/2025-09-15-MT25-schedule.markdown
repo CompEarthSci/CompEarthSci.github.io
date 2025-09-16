@@ -16,7 +16,7 @@ to reception on the ground floor.
 ## Meeting schedule
 
 * **16/10/2025** No meeting
-* **23/10/2025** Introductions and plans
+* **23/10/2025** Welcome (please come prepared to briefly introduce yourself) and a talk by [Auggie Marignier](https://saiis.web.ox.ac.uk/people/auggie-marignier) (Schmidt AI fellow).  
 * **30/10/2025** TBC
 * **6/11/2025** TBC
 * **13/11/2025** TBC
@@ -49,7 +49,7 @@ and online pitched as follows:
 Funding is also available to cover accommodation and travel, with priority given to registered PhD 
 students as well as reasonable caring costs for attendees who have dependents, which means they would 
 normally struggle to attend a course. Registration for all courses is now open 
-at https://forms.office.com/e/7xssC7FgXa - if you wish to apply for more than one instance of our courses, 
+at [https://forms.office.com/e/7xssC7FgXa](https://forms.office.com/e/7xssC7FgXa) - if you wish to apply for more than one instance of our courses, 
 please complete the form for each course you wish to attend. Questions about the courses can be sent to 
 Chris Wood: c.wood@epcc.ed.ac.uk
 
@@ -57,12 +57,12 @@ Chris Wood: c.wood@epcc.ed.ac.uk
 (2) Courses normally offered by the Advanced Research Computing team (an introductory 
 presentation, online training aimed at new users,
 a course on the effective use of HPC clusters, and drop in consultation sessions). 
-See https://arc.ox.ac.uk/training
+See [https://arc.ox.ac.uk/training](https://arc.ox.ac.uk/training)
 for more information and details of how to book. These courses are highly recommended 
 if you are (or intend to be) a new user of the ARC services.
 
 
 (3) Reproducible Research Oxford host a number of events including a two-day Software 
 Carpentries workshop (from 22nd September). Further details can be
-found on https://rr.ox.ac.uk/.
+found at [https://rr.ox.ac.uk/](https://rr.ox.ac.uk/).
 
