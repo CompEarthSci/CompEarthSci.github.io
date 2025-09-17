@@ -17,8 +17,8 @@ to reception on the ground floor.
 
 * **16/10/2025** No meeting
 * **23/10/2025** Welcome (please come prepared to briefly introduce yourself) and a talk by [Auggie Marignier](https://saiis.web.ox.ac.uk/people/auggie-marignier) (Schmidt AI fellow).  
-* **30/10/2025** TBC
-* **6/11/2025** TBC
+* **30/10/2025** Writing code with large language models: experiences, benifits and problems. 
+* **6/11/2025** Applying for the [Digital Sustainability Certification](https://www.software.ac.uk/GreenDiSC) for Earth Sciences? 
 * **13/11/2025** TBC
 * **20/11/2025** No meeting
 * **27/11/2025** TBC
