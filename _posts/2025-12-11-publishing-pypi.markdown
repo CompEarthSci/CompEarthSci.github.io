@@ -6,7 +6,7 @@ categories: meetings
 ---
 This contains some brief notes from our session on automated publishing to package indices.
 
-We used [https://test.pypi.org/] as our target repository. This works in the same way as PyPi but is intended for
+We used [https://test.pypi.org/](https://test.pypi.org/) as our target repository. This works in the same way as PyPi but is intended for
 tests - material is frequently deleted to save space and resources. To publish here (or on PyPi) you need to 
 create an account, link that to an email address and create a two factor authentication method.
 
@@ -77,9 +77,9 @@ jobs:
 ```
 
 Useful links: 
-* [https://docs.astral.sh/uv/guides/package/#publishing-your-package]
-* [https://packaging.python.org/en/latest/tutorials/packaging-projects/]
-* [https://www.pyopensci.org/blog/python-packaging-security-publish-pypi.html]
-* [https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/]
+* [https://docs.astral.sh/uv/guides/package/#publishing-your-package](https://docs.astral.sh/uv/guides/package/#publishing-your-package)
+* [https://packaging.python.org/en/latest/tutorials/packaging-projects/](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [https://www.pyopensci.org/blog/python-packaging-security-publish-pypi.html](https://www.pyopensci.org/blog/python-packaging-security-publish-pypi.html)
+* [https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/](https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/)
 
 Note that you need to enable a trusted publishing source on PyPi. Please use an environment to constrain permissions.
