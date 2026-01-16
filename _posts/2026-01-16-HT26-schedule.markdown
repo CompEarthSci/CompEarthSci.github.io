@@ -21,5 +21,5 @@ to reception on the ground floor.
 * **11/2/2026, Seminar room 1:** TBC
 * **18/2/2026, Conference room:** TBC
 * **25/2/2026, Seminar room 1:** TBC
-* **4/3/2026, Conference room:** TBC
+* **4/3/2026, Conference room:** Documentation (and automation with ReadTheDocs).
 * **11/3/2026, Seminar room 1:** TBC
