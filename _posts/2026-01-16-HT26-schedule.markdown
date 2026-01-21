@@ -18,7 +18,7 @@ to reception on the ground floor.
 * **21/1/2026, Conference room:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity _please bring a laptop and code you are willing to discuss in small groups_ 
 * **28/1/2026, Seminar room 1:** [Journal of Open Source Software](https://joss.theoj.org/): scope changes and experiences as authors, reviewers and editors.
 * **4/2/2026, Conference room:** TBC
-* **11/2/2026, Seminar room 1:** TBC
+* **11/2/2026, Seminar room 1:** Auggie - test driven development.
 * **18/2/2026, Conference room:** TBC
 * **25/2/2026, Seminar room 1:** TBC
 * **4/3/2026, Conference room:** Documentation (and automation with ReadTheDocs).
