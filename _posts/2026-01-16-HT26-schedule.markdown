@@ -19,7 +19,7 @@ to reception on the ground floor.
 * **28/1/2026, Seminar room 1:** [Journal of Open Source Software](https://joss.theoj.org/): scope changes and experiences as authors, reviewers and editors. Led by Andrew Walker
 * **4/2/2026, Conference room:** Competencies for digital research. We'll spend some time looking frameworks that allow researchers to assess their digital competencies and development needs with time to explore the [Jisc Discovery Tool](https://skills.it.ox.ac.uk/researcher-digital-skills-health-check) which is linked to the Vitae Researcher Development Framework, and the [DIRECT Framework](https://directframework.com/) which targets digital research roles. There will be time for you to use these tools, but for that you will need to bring a laptop. Discussion 
 * **11/2/2026, Seminar room 1:** Test driven development in theory and practice. Led by Auggie Marignier..
-* **18/2/2026, Conference room:** Websites, what to include and how to host them. Discussion 
+* **18/2/2026, Conference room:** Websites, what to include and how to host them (notes from [previous](https://compearthsci.github.io/meetings/2024/12/05/building-websites.html) [meetings](https://compearthsci.github.io/meetings/2023/09/18/creating-a-website.html)). Discussion 
 * **25/2/2026, Seminar room 1:** Automatic creation of documentation on the web with ReadTheDocs. Led by Andrew Walker
 * **4/3/2026, Conference room:** Templates for website creation. Led by Auggie Marignier 
 * **11/3/2026, Seminar room 1:** A brief overview of SQL. Led by Andrew Walker
