@@ -14,8 +14,8 @@ you go through the doors to the office corridor).
 
 ## Meeting schedule
 
-* **14/5/2026, Conference room:** TBC
-* **21/5/2026, Conference room:** TBC
-* **4/6/2026, Conference room:** TBC
-* **11/6/2026, Conference room:** TBC
+* **14/5/2026, Conference room:** An overview of SQL, Relational Database Management Systems, and Object-relational mapping (as much as fits in an hour). Andrew Walker 
+* **21/5/2026, Conference room:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity _please bring a laptop and code you are willing to discuss in small groups_
+* **4/6/2026, Conference room:** Linting and code-formatting with Ruff. Andrew Walker
+* **11/6/2026, Conference room:** Agent-driven development. Sam Scivier
 * **18/8/2026, Conference room:** TBC
