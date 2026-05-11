@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "SQL material"
+date:   2026-05-11 13:45:00 +1000
+categories: meetings
+---
+
+## How to get started with the SQL lesson
+
+You can work through Greg Wilson's [Introduction to SQL](https://third-bit.com/sql/). I got started by:
+
+1. Setting up an environment that lets me run marimo notebooks:
+
+```
+uv init comp_earth_sci_sql
+cd comp_earth_sci_sql
+uv add "marimo[sql]"
+uv add sqlalchemy
+```
+
+2. Downloading and uncompressing the example databases:
+
+```
+curl https://raw.githubusercontent.com/gvwilson/sqlshort/main/docs/databases.zip > databases.zip
+unzip databases.zip
+```
+
+3. Starting a marimo notebook
+
+```
+uv run marimo edit sql_example.py
+```
+
+4. In this notebook running a python cell containing `import marimo as mo`, using the "Add database connection" tool (hamburger, top right)
+to use sqlalchemy to create an engine for the path `./penguins.db` and then creating a new SQL cell using the "SQLite (engine)" database connection
+to run the SQL code `select sex, island, species from penguins;`
+
+Hopefully this will get you started with the rest of the material!
