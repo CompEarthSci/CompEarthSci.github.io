@@ -18,4 +18,6 @@ you go through the doors to the office corridor).
 with [exercises](https://compearthsci.github.io/meetings/2026/05/11/sql.html)). Andrew Walker 
 * **21/5/2026, Conference room:** [Code review](https://compearthsci.github.io/meetings/2024/01/18/code_review.html) activity _please bring a laptop and code you are willing to discuss in small groups_
 * **4/6/2026, Conference room:** Linting and code-formatting with Ruff. Andrew Walker
-* **11/6/2026, Conference room:** Agent-driven development. Sam Scivier
+* **11/6/2026, Conference room:** Agent-driven development 
+([slides](https://github.com/sscivier/agent-driven-development-seminar)
+and [demo](https://github.com/sscivier/d8demo)). Sam Scivier
